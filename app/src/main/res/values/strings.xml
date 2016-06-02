@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Arbeitszeiten</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_top">Anmelden</string>
+
+    Navigation:
+    <string name="nav_insert_time">Neue Zeit eintragen</string>
+    <string name="nav_timetable">Arbeitszeiten Kalender</string>
+    <string name="nav_stats">Allgemeine Statistiken</string>
+    <string name="nav_login">Login / Anmelden</string>
+</resources>
